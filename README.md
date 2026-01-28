@@ -1,1 +1,1 @@
-Projeto - Lógica de Programação Jogo do Número Secreto: https://projeto-logica-v2-alura.vercel.app/
+Projeto | Lógica de Programação V2 - Jogo do Número Secreto: https://projeto-logica-v2-alura.vercel.app/
